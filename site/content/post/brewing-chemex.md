@@ -1,7 +1,7 @@
 ---
 title: How did I get here?
 date: 2019-08-10T14:04:10.000Z
-description: My first go at managing content with *Netlify CMS*!
+description: My first go at managing content with Netlify CMS!
 image: ''
 ---
 
