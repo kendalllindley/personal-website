@@ -7,7 +7,7 @@ publish_mode: editorial_workflow
 media_folder: assets/uploads
 
 collections: # A list of collections the CMS should be able to edit
-  - name: 'events' # No idea what this is for, except that I;m trying to be matchy-matchy with posts.
+  - name: 'events' # No idea what this is for, except that I'm trying to be matchy-matchy with posts.
     label: 'Events (label)' # appearently "Used in the UI" cool.
     label_singluar: 'Events (label-singlular)' # I don't get the redundant label, so I'm adding the parethesis.
     description: >
@@ -18,6 +18,23 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow content managers to create new documetns in this collection
     fields: #The fields each document in this collection have
       - { label: 'Title, name: 'title', widget: 'string', tagname: 'h1' }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          dateFormat: 'YYYY-MM-DD',
+          timeFormat: 'HH:mm',
+          format: 'YYYY-MM-DD HH:mm',
+        }
+      - label: 'Cover Image'
+        name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
+      - { label: 'Date/Time', name: 'time', widget: 'datetime', }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Event summary/overview content goes here.' }
+    meta:
+      - { label: 'SEO Description', name: 'description', widget: 'text' }
     
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Posts' # Used in the UI
