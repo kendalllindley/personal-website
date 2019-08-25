@@ -62,6 +62,12 @@ location: (This shouldn't be here.)
 * No Shopping Experience
 * No Event Management
 
-
+### Theme Installation
+I had to increase my upload max filesize.
+1. In File Explorer, open xampp/php/php.ini in notepad.
+2. Find (CTRL + F) "upload_max_filesize"
+3. replace "upload_max_filesize=2M" with "upload_max_filesize=8M"
+4. Save the file.
+5. Stop and Start Apache in the XAMPP Control Pannel.
 
 
