@@ -84,15 +84,17 @@ I had to increase my upload max filesize.
 5. Stop and Start Apache in the XAMPP Control Pannel.
 
 ## Meeting Notes 2019-09-03
+
 * can the "inner page header" be changed on each page?
 * security is important
 * Robin likes the social care theme
 
 ### Thought Capture
+
 * Double check mobile use
 * Try colors for demo
 * Add some real content
 * Check functional requirements and document required plugins
 
-
-
+## 2019-09-12 
+[Customize theme colors](https://wpengine.com/resources/how-to-customize-a-wordpress-themes-colors/)
