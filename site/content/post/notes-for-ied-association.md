@@ -96,8 +96,9 @@ I had to increase my upload max filesize.
 * Add some real content
 * Check functional requirements and document required plugins
 
-## 2019-09-12 
+## 2019-09-12
 
 I managed to make color changes to the theme by copying the inline styles from \wp-content\themes\social-care-lite\inc\customizer.php and pasting them into my child themes css file and adding !important to my changes. I decided not to change the original theme files. Figured that !important, while ugly, are better than having the theme break next time they upgrade.
 
-
+## 2019-09-15
+.header-top .container .logo needs a max width of 400px.
