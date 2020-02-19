@@ -1,41 +1,26 @@
 ---
 title: Kendall Lindley's Adventures
 subtitle: 'Learning front-end web development. '
-image: /img/home-jumbotron.jpg
+image: /img/products-full-width.jpg
 blurb:
-  heading: I have a few sections to delete...
+  heading: Building skills
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I consistently find myself needing to think through solutions that can be
+    scaled. This site is an exercise of breadth. I want to learn what's out
+    there and what's possible. It's nice to have you along.
 intro:
-  heading: What we offer
+  heading: Challenges
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    I've had to wrestle with how to make things scalable for a web team that was
+    working for one really big institution. Recently I've had the change to see
+    into the world of designing and marketing for hundreds of small businesses.
+    Instead of scaling one huge design, how do you scale hundreds of small
+    ones?!`
+products: []
 values:
-  heading: Our values
+  heading: Values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    People. I'm socially motivated. I want to make the world a better place.
+    Still trying to figure out exactly what I might be capable of.
 ---
 
