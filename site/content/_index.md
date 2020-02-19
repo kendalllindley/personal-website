@@ -15,11 +15,11 @@ intro:
     working for one really big institution. Recently I've had the change to see
     into the world of designing and marketing for hundreds of small businesses.
     Instead of scaling one huge design, how do you scale hundreds of small
-    ones?!`
+    ones?! And getting rid of the "See all products" button below. >:(
 products: []
 values:
   heading: Values
-  text: >-
+  text: >
     People. I'm socially motivated. I want to make the world a better place.
     Still trying to figure out exactly what I might be capable of.
 ---
